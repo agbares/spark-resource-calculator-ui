@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/spark-resource-calculator-ui/static/css/main.e6c13ad2.css",
+    "main.js": "/spark-resource-calculator-ui/static/js/main.b7468f95.js",
+    "static/js/787.d8f1b398.chunk.js": "/spark-resource-calculator-ui/static/js/787.d8f1b398.chunk.js",
+    "index.html": "/spark-resource-calculator-ui/index.html",
+    "main.e6c13ad2.css.map": "/spark-resource-calculator-ui/static/css/main.e6c13ad2.css.map",
+    "main.b7468f95.js.map": "/spark-resource-calculator-ui/static/js/main.b7468f95.js.map",
+    "787.d8f1b398.chunk.js.map": "/spark-resource-calculator-ui/static/js/787.d8f1b398.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.b7468f95.js"
+  ]
+}
